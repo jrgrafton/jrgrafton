@@ -4,15 +4,12 @@ Engineering leader who still ships code. Now building **[Lusory](https://lusory.
 
 Previously: Director, AI Platforms & Product Engineering at **Meta** · Senior Director, Game & Mobile Engineering at **Zwift** · Head of Field Engineering for **Stadia** and **Chromecast** at **Google** · founder of **Assentec** · software engineer at **IBM**.
 
-## Games I've built for Lusory since October 2026
+## What I'm building at Lusory
 
 The repos are private and demos are available on request.
 
 - **Exit Interview**: a co-op top-down horde shooter in the browser. You're an office worker herding the robots that replace you into the shredder.
 - **Salient**: a WW2 real-time strategy game crossed with an auto-battler.
-- **Breach '86**: a deterministic 1980s SWAT breach puzzle, isometric 3D in the browser.
-- **Don't Tell Frank**: The Truman Show from the control room, as a management sim (three.js).
-- **Honeybrook Zoo**: a cosy pixel-art zookeeper sim (Phaser 3).
 
 ## Side projects
 
